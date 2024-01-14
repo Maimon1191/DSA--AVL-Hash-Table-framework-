@@ -15,4 +15,4 @@ This project is part of a college assignment and showcases the use of AVL trees 
 - Written in Java, making it accessible and versatile.
 
 ![Java Logo](https://github.com/Maimon1191/DSA--AVL-Hash-Table-framework-/blob/main/Java-Logo.jpg)
-![Harry potter](image_url)
+![Harry potter](https://github.com/Maimon1191/DSA--AVL-Hash-Table-framework-/blob/main/harrypotter2.jpg)
