@@ -14,5 +14,5 @@ This project is part of a college assignment and showcases the use of AVL trees 
 - Spell creation and management.
 - Written in Java, making it accessible and versatile.
 
-![Java Logo](image_url)
+![Java Logo](https://github.com/Maimon1191/DSA--AVL-Hash-Table-framework-/blob/main/Java-Logo.jpg)
 ![Harry potter](image_url)
